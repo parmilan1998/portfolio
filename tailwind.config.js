@@ -8,6 +8,11 @@ module.exports = {
         headingColor: '#081e21',
         smallTextColor: '#193256',
       },
+      fontFamily: {
+        poppins: "'Poppins', sans-serif",
+        roboto: "'Roboto', sans-serif",
+        inter: "'Inter', sans-serif",
+      },
     },
   },
   plugins: [],
